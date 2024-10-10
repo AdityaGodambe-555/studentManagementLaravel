@@ -2,6 +2,12 @@
 
 A simple Student Management System built with Laravel Framework and MySQL. This application allows users to manage student records, including adding, editing, and deleting student information.
 
+
+
+https://github.com/user-attachments/assets/ddbdc822-c050-4c09-a94c-0290b04bace7
+
+
+
 ## Technologies Used
 
 - Laravel
